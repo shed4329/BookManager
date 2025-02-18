@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<VBox fx:id="box" alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" spacing="20.0" xmlns="http://javafx.com/javafx/8.0.422" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cn.shed4329.bookManager.GUI.Controller.MainSceneController">
+   <children>
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-fill: #464646;" text="图书管理系统">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+         <VBox.margin>
+            <Insets top="20.0" />
+         </VBox.margin>
+      </Text>
+      <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="20.0">
+         <children>
+            <Button mnemonicParsing="false" onAction="#LoadInsertStudentScene" style="-fx-background-color: #fdbfcf;" text="录入学生信息" textAlignment="CENTER">
+               <effect>
+                  <Reflection />
+               </effect>
+            </Button>
+            <Button mnemonicParsing="false" onAction="#LoadInsertBookScene" style="-fx-background-color: #ffeaf5;" text="录入书籍信息" textAlignment="CENTER">
+               <effect>
+                  <Reflection />
+               </effect>
+            </Button>
+         </children>
+      </HBox>
+      <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="20.0">
+         <children>
+            <Button mnemonicParsing="false" onAction="#LoadStudentInfoScene" style="-fx-background-color: #ffc2d3;" text="查询学生信息" textAlignment="CENTER">
+               <effect>
+                  <Reflection />
+               </effect>
+            </Button>
+            <Button mnemonicParsing="false" onAction="#LoadBookInfoScene" style="-fx-background-color: #ffeaf5;" text="查询书籍信息" textAlignment="CENTER">
+               <effect>
+                  <Reflection />
+               </effect>
+            </Button>
+         </children>
+      </HBox>
+      <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="20.0">
+         <children>
+            <Button mnemonicParsing="false" onAction="#LoadBorrowScene" style="-fx-background-color: #ffc2d3;" text="新增借阅信息" textAlignment="CENTER">
+               <effect>
+                  <Reflection />
+               </effect>
+            </Button>
+            <Button mnemonicParsing="false" onAction="#LoadBorrowInfoScene" style="-fx-background-color: #ffeaf5;" text="查询借阅信息" textAlignment="CENTER">
+               <effect>
+                  <Reflection />
+               </effect>
+            </Button>
+         </children>
+      </HBox>
+   </children>
+</VBox>

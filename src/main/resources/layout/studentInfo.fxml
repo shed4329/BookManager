@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" spacing="20.0" xmlns="http://javafx.com/javafx/8.0.422" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cn.shed4329.bookManager.GUI.Controller.StudentInfoController">
+   <children>
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="学生信息">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <TableView fx:id="infoTable" prefHeight="300.0" prefWidth="600.0">
+        <columns>
+            <TableColumn fx:id="sidColumn" prefWidth="141.60003662109375" text="sid" />
+            <TableColumn fx:id="nameColumn" prefWidth="198.39996337890625" text="name" />
+            <TableColumn fx:id="sexColumn" prefWidth="96.79998779296875" text="sex" />
+            <TableColumn fx:id="gradeColumn" minWidth="0.0" prefWidth="163.20001220703125" text="grade" />
+        </columns>
+      </TableView>
+      <Button mnemonicParsing="false" text="返回" onAction="#backHandler"/>
+   </children>
+</VBox>

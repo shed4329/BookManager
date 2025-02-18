@@ -1,0 +1,554 @@
+二月 15, 2025 9:59:39 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 15, 2025 9:59:41 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 15, 2025 10:00:19 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 15, 2025 10:00:20 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 15, 2025 10:00:36 下午 cn.shed4329.bookManager.GUI.Controller.InsertBookController lambda$saveHandler$0
+信息: 成功添加了一条书籍信息 Book(title=雪国, desc=《雪国》是日本著名作家川端康成的经典中篇小说，也是他的代表作之一。小说以日本北部的雪国为背景，讲述了东京舞蹈艺术研究家岛村与艺妓驹子、少女叶子之间的情感纠葛, price=28.0)
+二月 15, 2025 10:18:08 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 15, 2025 10:18:13 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:30:54 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:30:57 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:30:59 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:31:00 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:31:01 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:32:50 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:32:53 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:32:55 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:32:55 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:32:56 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:33:17 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:33:18 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:33:57 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:33:59 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:41:53 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:41:59 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:45:48 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:45:50 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:48:17 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:48:18 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:53:44 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:53:46 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:56:15 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:56:18 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:59:05 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 9:59:07 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:00:01 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:00:05 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:00:07 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:02:19 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:02:21 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:03:07 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:03:08 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:04:40 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:04:43 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:05:46 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:05:47 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:07:05 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:07:07 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:07:12 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:07:13 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:07:14 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:07:15 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:07:16 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:07:17 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:07:18 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:07:19 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:07:20 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:15:00 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:16:28 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:16:30 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:20:37 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:20:43 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:22:45 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:22:53 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:22:56 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:22:57 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:22:57 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:23:06 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:23:08 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:23:10 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:23:11 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:23:12 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:27:13 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:33:27 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:42:14 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:43:58 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:44:15 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:44:17 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:44:18 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:44:19 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:50:47 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:50:48 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:50:56 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:50:58 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 10:51:11 下午 cn.shed4329.bookManager.GUI.Controller.InsertBorrowController lambda$saveHandler$0
+信息: 成功添加一条借阅信息
+二月 16, 2025 10:51:40 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:17:04 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:18:36 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:18:38 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:20:04 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:20:06 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:22:14 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:22:16 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:22:46 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:22:47 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:23:03 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:27:06 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:27:08 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:27:11 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:27:12 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:27:13 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:27:14 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:27:21 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:27:22 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:27:24 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:27:25 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:27:26 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:27:27 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:27:29 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:32:17 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:32:21 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:32:22 下午 cn.shed4329.bookManager.GUI.Controller.InsertBookController saveHandler
+警告: 标题不能为空
+二月 16, 2025 11:32:55 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:32:57 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:35:53 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:35:58 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:36:04 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:36:05 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:36:07 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:36:07 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:36:09 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:36:09 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:36:14 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:36:15 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:36:21 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:37:50 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:37:53 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:38:39 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:38:41 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:38:42 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:38:44 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:38:54 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:38:55 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:38:56 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:38:58 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:38:59 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:38:59 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:39:01 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:39:02 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 16, 2025 11:39:03 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:43:20 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:43:36 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:43:42 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:43:43 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:43:48 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:43:51 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:43:55 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:43:56 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:45:22 下午 cn.shed4329.bookManager.GUI.Controller.InsertBookController lambda$saveHandler$0
+信息: 成功添加了一条书籍信息 Book(bid=0, title=海底两万里, desc=科幻小说的经典之作。讲述了博物学家阿龙纳斯等人乘坐鹦鹉螺号潜艇周游海底的故事，充满奇幻色彩和科学知识，激发初中生对未知世界的探索欲望, price=28.0)
+二月 17, 2025 9:45:28 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:45:37 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:45:38 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:46:02 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:46:04 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:46:08 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:46:18 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:46:20 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:46:22 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:46:25 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:46:42 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:46:56 下午 cn.shed4329.bookManager.GUI.Controller.InsertBookController saveHandler
+警告: 价格应该是数字 For input string: "吴承恩"
+二月 17, 2025 9:47:18 下午 cn.shed4329.bookManager.GUI.Controller.InsertBookController lambda$saveHandler$0
+信息: 成功添加了一条书籍信息 Book(bid=0, title=西游记, desc=中国古代四大名著之一，讲述了唐僧师徒四人西天取经的故事。书中充满了奇幻色彩和冒险情节，展现了团队合作、克服困难的精神，适合初中生感受传统文化的魅力, price=128.0)
+二月 17, 2025 9:47:20 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:47:22 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:47:23 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:47:24 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:50:44 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:50:46 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:51:27 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:51:29 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:52:55 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:52:57 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:53:25 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:53:28 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:53:48 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:53:49 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:53:52 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:53:58 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:54:57 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:54:58 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:55:02 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:55:03 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:55:08 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:55:09 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:55:59 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:56:01 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:56:08 下午 cn.shed4329.bookManager.GUI.Controller.InsertStudentController lambda$saveHandler$0
+信息: 新增一条学生数据 Student(sid=0, name=柴玉兰, sex=女, grade=2021)
+二月 17, 2025 9:56:11 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:56:16 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:56:23 下午 cn.shed4329.bookManager.GUI.Controller.InsertStudentController lambda$saveHandler$0
+信息: 新增一条学生数据 Student(sid=0, name=寒梓妍, sex=女, grade=2024)
+二月 17, 2025 9:56:25 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:56:26 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:56:47 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:57:03 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:57:07 下午 cn.shed4329.bookManager.GUI.Controller.InsertStudentController lambda$saveHandler$0
+信息: 新增一条学生数据 Student(sid=0, name=岳国珍, sex=女, grade=2022)
+二月 17, 2025 9:57:09 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:57:11 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:57:16 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:57:17 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:57:23 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:57:25 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:57:25 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:57:26 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:57:31 下午 cn.shed4329.bookManager.GUI.Controller.InsertBorrowController lambda$saveHandler$0
+信息: 成功添加一条借阅信息
+二月 17, 2025 9:57:32 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:57:33 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:57:42 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:58:06 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:58:08 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:58:25 下午 cn.shed4329.bookManager.GUI.Controller.InsertBookController lambda$saveHandler$0
+信息: 成功添加了一条书籍信息 Book(bid=0, title=时间简史, desc=以通俗易懂的语言介绍了宇宙学和时间的本质，激发初中生对科学的兴趣，帮助他们初步了解现代物理学, price=49.0)
+二月 17, 2025 9:58:27 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:58:29 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:58:35 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:58:53 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:59:10 下午 cn.shed4329.bookManager.GUI.Controller.InsertBookController lambda$saveHandler$0
+信息: 成功添加了一条书籍信息 Book(bid=0, title=简·爱, desc=讲述了贫苦孤女简·爱在追求人格独立、爱情和尊严过程中所经历的种种磨难。书中展现了女性的自尊、自强，对初中生树立正确的人生观和价值观有重要意义, price=19.8)
+二月 17, 2025 9:59:13 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:59:18 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:59:20 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 9:59:21 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:00:13 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:00:15 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:00:32 下午 cn.shed4329.bookManager.GUI.Controller.InsertBookController lambda$saveHandler$0
+信息: 成功添加了一条书籍信息 Book(bid=0, title=哈利·波特与魔法石, desc=魔幻小说的经典之作。通过哈利·波特在霍格沃茨魔法学校的冒险经历，展现了友情、勇气和正义的力量，适合初中生在奇幻世界中感受成长的快乐, price=35.0)
+二月 17, 2025 10:00:34 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:00:35 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:00:38 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:00:39 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:00:40 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:00:43 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:00:48 下午 cn.shed4329.bookManager.GUI.Controller.InsertBorrowController lambda$saveHandler$0
+信息: 成功添加一条借阅信息
+二月 17, 2025 10:00:50 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:00:50 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:01:04 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:06:37 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:06:37 下午 com.sun.javafx.css.StyleManager getCachedImage
+警告: Error loading image: file:background.jpg
+二月 17, 2025 10:07:31 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:07:31 下午 com.sun.javafx.css.StyleManager getCachedImage
+警告: Error loading image: file:background.jpg
+二月 17, 2025 10:08:53 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:08:53 下午 com.sun.javafx.css.StyleManager getCachedImage
+警告: Error loading image: file:background.jpg
+二月 17, 2025 10:09:47 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:09:48 下午 com.sun.javafx.css.StyleManager getCachedImage
+警告: Error loading image: file:@background.jpg
+二月 17, 2025 10:13:56 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:17:32 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:18:16 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:23:25 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:23:38 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:24:55 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:24:57 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:24:58 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:25:57 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:26:30 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:26:56 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:27:05 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:27:40 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:27:48 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:29:35 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:31:56 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:32:09 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:32:12 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:32:13 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:32:15 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:32:16 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:32:17 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:32:18 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:32:18 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:32:19 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:32:20 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:32:21 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:32:22 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:32:24 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 23.0.1 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:32:25 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:33:23 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:33:32 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:33:33 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:33:37 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:33:39 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:40:36 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:43:54 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:44:18 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
+二月 17, 2025 10:47:19 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 17.0.12 by JavaFX runtime of version 8.0.422
